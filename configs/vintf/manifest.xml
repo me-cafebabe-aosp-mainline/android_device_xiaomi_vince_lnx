@@ -1,0 +1,5 @@
+<manifest version="1.0" type="device" target-level="7">
+
+    <!-- DO NOT ADD MORE - use vintf_fragments -->
+
+</manifest>
